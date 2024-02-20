@@ -1,2 +1,2 @@
 # Pandas
-Revising Pandas Library &amp;  Analysis  Data through it.
+Revising Pandas Library &amp;  Analyzing  Data through it.
